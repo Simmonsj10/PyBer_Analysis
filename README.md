@@ -1,14 +1,15 @@
 # PyBer_Analysis
 Author: Jerome Simmons
+
 Date: 12/20/20
 
 ## Overview of the Analysis
 
-The CEO of a ride sharing company has requested an analysis to understand market trends by market area type (Urban, Suburban, Rural). In addition, the CEO would like to understand how total fares have trended over time on a weekly basis. For this analysis, we have produced two deliverables
+The CEO of a ride sharing company has requested an analysis to understand key performance indicators (Rides, Drivers, and Fares) by market area type (Urban, Suburban, Rural). In addition, the CEO would like to understand how total fares have trended over time on a weekly basis. For this analysis, we have produced two deliverables
 * A ride-sharing summary by city type that contains ride, driver, and fare data;
 * A multiple-line chart of total fares for each city type.
 
-In the sections below, we'll review the results, insights, and recommendations.
+In the sections below, we review the deliverable outputs and provide insights, and recommendations.
 
 ## Results
 For our first deliverable, we have developed a summary table that shows total rides, total drivers, total fare value, average fare per ride, and average fare per driver. 
@@ -34,7 +35,7 @@ For our second deliverable, we analyzed the total fare value by city type (Janua
 * The fourth week of February showed the largest total fare volume across all market environments.
 
 ## Summary
-Based on the three insights in the results section, we have developed 3 recommendations for PyBer.
+Based on the three insights discussed in the results section, we have developed 3 recommendations for PyBer.
 1. Invest in efforts to increase total ride volume in urban environments. These high volume markets are growing and represent the majority of the fare volume. Moreover, there is insufficient ride volume to support the number of drivers in these markets.
 2. Optimize driver incentives so that markets are adequately served. 
 3. Pivot to growing market environments: shift investment from rural markets to suburban and urban markets.
