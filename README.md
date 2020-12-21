@@ -13,7 +13,7 @@ In the sections below, we'll review the results, insights, and recommendations.
 ## Results
 For our first deliverable, we have developed a summary table that shows total rides, total drivers, total fare value, average fare per ride, and average fare per driver. 
 
-![Fig9.png](Fig9.png)
+![Figures/Fig9.png](Fig9.png)
 
 ### Insight 1: Urban environments generate the highest fare volume
 * Rural environments have the fewest number of rides (125), but these rides gross the highest fares on average ($34).
@@ -26,7 +26,7 @@ For our first deliverable, we have developed a summary table that shows total ri
 
 For our second deliverable, we analyzed the total fare value by city type (January '19 - April '19). The chart plots the total fare amount by week in rural, suburban, and urban environments.
 
-![Fig8.png](Fig8.png)
+![Figures/Fig8.png](Fig8.png)
 
 ### Insight 3: Urban & Suburban markets are growing, while Rural markets are stagnant
 * Urban & Suburban market environments experienced growth in total fare volume over time as the total fares at the end of the period are several hundred dollars higher than at the beginning of the period.
