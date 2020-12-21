@@ -14,7 +14,7 @@ In the sections below, we review the deliverable outputs and provide insights, a
 ## Results
 For our first deliverable, we have developed a summary table that shows total rides, total drivers, total fare value, average fare per ride, and average fare per driver. 
 
-![Fig9.png](Figures/Fig9.png)
+![Pyber_Fare_Summary.png](Figures/Pyber_Fare_Summary.png)
 
 ### Insight 1: Urban environments generate the highest fare volume
 * Rural environments have the fewest number of rides (125), but these rides gross the highest fares on average ($34).
